@@ -1,1 +1,1 @@
-# Hotel_Management_System_Using_PHP_Database
+This is a Hotel Management System project developed using HTML, CSS, JavaScript, and PHP with a MySQL database for backend storage. The system provides a user-friendly platform for hotel customers to book rooms and manage their bookings, while also securely storing all data in the database.
